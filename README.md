@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Log de Pedidos com React e Node.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um sistema de log de pedidos que utiliza `React` para a interface do usuário e `Node.js` para a API back-end. 
 
-## Available Scripts
+A aplicação permite a navegação entre páginas usando `react-router-dom`, e os dados dos pedidos são salvos e recuperados por meio da API Node.
 
-In the project directory, you can run:
 
-### `npm start`
+## conhecimentos e habilidades adquiridas:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 1 Criar uma aplicação React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+>Aprender a configurar e estruturar uma aplicação React, incluindo a criação de componentes, gerenciamento de estado e manipulação de eventos.
 
-### `npm test`
+- 2 Utilizar o Styled Components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+>Explorar o uso do Styled Components para estilizar componentes React de uma maneira eficiente e modular, facilitando a manutenção do código CSS.
 
-### `npm run build`
+- 3 React Hooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+>Aprofundar-me no uso de React Hooks para gerenciar o estado e o ciclo de vida dos componentes de forma mais concisa e funcional.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 4 Utilização de Rotas com `react-router-dom`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+>Implementar a navegação entre páginas de forma dinâmica e amigável ao usuário utilizando o `react-router-dom`. Isso inclui a definição de rotas, passagem de parâmetros e manipulação de histórico de navegação.
 
-### `npm run eject`
+- 5 Componentizar a Aplicação
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+>Dividir a aplicação em componentes reutilizáveis para promover uma arquitetura mais modular e fácil de manter. Isso inclui a criação de componentes para cabeçalho, rodapé, formulários de pedidos, etc.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h3 align=center>🎬 Demonstração do funcionamento das funcionalidades de navegação:</h3>
+<p align="center">
+  <img width="460" height="300" src="src/assets/apresentacao-gif.gif">  
+</p>
